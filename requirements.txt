@@ -1,0 +1,5 @@
+capstone_gt==5.0.0.2
+gtirb==1.10.9
+gtirb_capstone==1.0.1
+gtirb_functions==1.0.9
+gtirb_rewriting==0.1.1
